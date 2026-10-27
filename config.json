@@ -1,0 +1,16 @@
+{
+  "model": "gpt-4o-mini-tts",
+  "speed": 1.0,
+  "gap_ms": 450,
+  "bitrate": "192k",
+  "voices": {
+    "JASON": "onyx",
+    "SKARD": "echo",
+    "BLAKE": "ash",
+    "RYAN": "fable",
+    "SARAH": "nova",
+    "LLAMADA": "alloy",
+    "JASON EN CINTA": "onyx"
+  },
+  "effects": {}
+}
